@@ -5,4 +5,5 @@ My current understanding is that only iimjobs didn’t support structured data. 
 
 I have attached a video of the scraping code working for internshala and talenttrack. 
 
-I divided the content into task,company,description,begin date, duration and salary. The entries that didn’t have one of these had blank spaces appended. Don’t know what you meant by interesting and non interesting url. 
+New code works
+
